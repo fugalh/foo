@@ -1,5 +1,5 @@
 
-<div class="dex_guide"><h1 class="dex_title">Futures</h1><section class="dex_document"><h1 class="dex_h0"></h1><div class="dex_introduction">Futures is a framework for expressing asynchronous code in C++ using the Promise/Future pattern.</div><section class="dex_document_body"><h2 id="important-links-and-reso">Important links and resources <a href="#important-links-and-reso" class="headerLink">#</a></h2>
+<div class="dex_guide"><h1 class="dex_title">Futures</h1><section class="dex_document"><h1 class="dex_h0">dex_h0</h1><div class="dex_introduction">Futures is a framework for expressing asynchronous code in C++ using the Promise/Future pattern.</div><section class="dex_document_body"><h2 id="important-links-and-reso">Important links and resources <a href="#important-links-and-reso" class="headerLink">#</a></h2>
 
 <ul>
 <li>places</li>
